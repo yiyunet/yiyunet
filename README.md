@@ -1,188 +1,155 @@
-<!-- ══════════════════════════════════════════════════════════════════════
-     yiyunet · AI-Native Breakthrough · GitHub Profile README
-     风格：终端 / 赛博终端风 · 中英双语
-     卡片分层：远程渲染（shields / readme-stats / streak / summary-cards /
-               ghchart / komarev）＋ 本仓库 Action 自产（贪吃蛇 / 3D 贡献图）
-     维护：改文案改本文件；动态图由 Action 每日自动更新
-     技术来源：知乎《超详细的 GitHub 个人主页美化教程》p/741677397
-     2026-10-25 卡片可用性实测：readme-stats ✔ / streak ✔ / summary-cards ✔
-                                  ghchart ✔ / shields ✔ / komarev ✔
-                                  trophy ✘ / activity-graph ✘（Vercel 部署被暂停）
-     微信通道：二维码为个人码（长期有效）；刻意不用群码（7 天失效）
-     ══════════════════════════════════════════════════════════════════════ -->
+<!-- yiyunet · AI-Native Breakthrough
+     Optional additions, hidden until you choose to publish them:
+     (待补充：公开联系邮箱；不需要可删除本行)
+     (待补充：个人网站或博客完整 HTTPS 地址；不需要可删除本行)
+-->
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/AI--NATIVE-BREAKTHROUGH-00E5FF?style=for-the-badge&labelColor=0D1117&logo=terminal&logoColor=00E5FF" alt="AI-Native Breakthrough" />
-<img src="https://img.shields.io/badge/STATUS-BUILDING-39FF14?style=for-the-badge&labelColor=0D1117" alt="status: building" />
-<img src="https://img.shields.io/badge/MODE-AGENTIC_x_HUMAN-8A2BE2?style=for-the-badge&labelColor=0D1117" alt="mode" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=yiyunet&amp;label=PROFILE_VIEWS&amp;color=00E5FF&amp;style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/badge/GITHUB_SINCE-2026-8A2BE2?style=for-the-badge&amp;labelColor=0D1117&amp;logo=github&amp;logoColor=white" alt="github since" />
-<img src="https://img.shields.io/badge/STACK-ZERO_DEPENDENCY_JS-FF6B00?style=for-the-badge&amp;labelColor=0D1117&amp;logo=javascript&amp;logoColor=F7DF1E" alt="stack" />
-<img src="https://img.shields.io/badge/WECHAT-yiyunet--ai-07C160?style=for-the-badge&amp;labelColor=0D1117&amp;logo=wechat&amp;logoColor=white" alt="wechat: yiyunet-ai" />
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;color=0:0D1117,45:123458,100:00D9FF&amp;text=AI-NATIVE%20BREAKTHROUGH&amp;fontSize=38&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=YIYUNET%20%2F%20BUILDING%20WITH%20AGENTS&amp;descSize=15&amp;descAlignY=58&amp;animation=fadeIn" alt="AI-NATIVE BREAKTHROUGH — yiyunet / Building with Agents" />
+  <h3>AI 原生突围 · 管理变革 × 技术落地</h3>
+  <p>一个人 + 一队智能体，让 AI 从想法走进真实工作流。</p>
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1200&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=48&amp;lines=Management+%C3%97+Technology+%C3%97+AI;Building+the+DeepSeek+Harness+plugin+ecosystem;From+agent+workflows+to+real-world+tools" alt="Management × Technology × AI — Building the DeepSeek Harness plugin ecosystem" />
+  <br />
+  <img src="https://img.shields.io/badge/FOCUS-AGENTIC_WORKFLOWS-00D9FF?style=for-the-badge&amp;labelColor=0D1117" alt="Focus: Agentic Workflows" />
+  <img src="https://img.shields.io/badge/BUILD-DEEPSEEK_HARNESS-A78BFA?style=for-the-badge&amp;labelColor=0D1117" alt="Build: DeepSeek Harness" />
+  <br /><br />
+  <a href="https://github.com/yiyunet?tab=repositories">探索仓库 / Repositories</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/yiyunet/yiyunet/issues/new">聊聊你的挑战 / Let's talk</a>
 </div>
 
----
+<br />
 
-### 🌐 TERMINAL PROFILE // 终端简介
+## 01 / MISSION
 
-> **"告别只把 AI 当'打补丁工具'的思维，拒绝给旧马车加油，用 AI 底座推倒重来。"**
->
-> 聚焦 **AI原生突围（AI-Native Breakthrough）**，架设在企业战略、组织转型与智能体（Agentic AI）实操之间的桥梁。致力于帮助企业管理者与技术专家打破存量红海，用 AI 原生架构重构业务底座，实现从单点提效到组织生产力的惊险一跃。
+**把 AI 原生的想法，做成可以使用、验证和持续改进的工具。**
 
-`[NOW_BUILDING]` 把 **DeepSeek Harness** 长成一个能挂载插件的 AI 底座 —— 每个插件只干一件事：**零构建、零运行依赖、纯本地、失败即断联**，不拿"看起来能用"换"长期可维护"。
+我关注企业管理、组织转型与 Agent 实践的交叉点，正在围绕 **DeepSeek Harness** 构建插件：连接业务数据、审查内容质量、沉淀学习成果，以及管理模型与工具的连接。
 
----
+`AI-native organizations` · `Agentic workflows` · `Context engineering`
 
-### 🛠️ TECH STACK & ARCHITECTURES // 技术栈与底层构架
+<br />
 
-```json
-{
-  "paradigms": ["AI-First Architecture", "Agentic Workflows", "RevOps Strategy"],
-  "infrastructure": {
-    "compute": ["Context Engineering", "End-to-End Autonomous Agents"],
-    "governance": ["Shadow AI Mitigation", "Carbon-Silicon Integration"],
-    "metrics": ["ROI Optimization (60-120 Days Target)", "10x Productivity Growth"]
-  }
-}
-```
+## 02 / SELECTED BUILDS
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🔌 连接业务数据</h3>
+<a href="https://github.com/yiyunet/dsh-dingtalk-connector"><b>dsh-dingtalk-connector ↗</b></a>
+<p>把钉钉 AI 表格接入 DeepSeek Harness，支持读写、设置面板与定时导出。</p>
+<sub>JavaScript · DingTalk · Business workflows</sub>
+</td>
+<td width="50%" valign="top">
+<h3>🔬 审查 AI 内容质量</h3>
+<a href="https://github.com/yiyunet/dsh-kill-ai-slop"><b>dsh-kill-ai-slop ↗</b></a>
+<p>从表达、执行与决策三个维度审查文档，通过义务台账和引文核验追溯问题。</p>
+<sub>JavaScript · Document review · Evidence</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🧠 让学习形成闭环</h3>
+<a href="https://github.com/yiyunet/dsh-learn-skills"><b>dsh-learn-skills ↗</b></a>
+<p>收集 → 提炼 → 关联 → 升级 → 沉淀 → 复用，配合交互引导、审核入库与体系体检。</p>
+<sub>JavaScript · Learning workflows · Knowledge</sub>
+</td>
+<td width="50%" valign="top">
+<h3>🛠️ 管理工具连接</h3>
+<a href="https://github.com/yiyunet/dsh-mcp-client-manager"><b>dsh-mcp-client-manager ↗</b></a>
+<p>在设置侧栏管理 MCP 客户端服务器，让工具连接的配置与维护更集中。</p>
+<sub>JavaScript · MCP · Configuration</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🌐 控制代理出口</h3>
+<a href="https://github.com/yiyunet/dsh-proxy-egress"><b>dsh-proxy-egress ↗</b></a>
+<p>提供本地无凭据代理地址，在上游连接中注入认证；代理失败时不回退直连。</p>
+<sub>JavaScript · Proxy bridge · Fail-closed</sub>
+</td>
+<td width="50%" valign="top">
+<h3>⚡ 探索模型接入</h3>
+<a href="https://github.com/yiyunet/dsh-chatgpt-connect"><b>dsh-chatgpt-connect ↗</b></a>
+<p>在 Harness 中接入 ChatGPT 订阅可用的 Codex 模型，并提供可选图像能力。</p>
+<sub>TypeScript · Community Alpha · 衍生自 dsh-codex-connect</sub>
+</td>
+</tr>
+</table>
 
----
+<sub>以上为社区项目，具体功能、依赖、权限与验证范围以各仓库当前 README 为准。</sub>
 
-### 🧩 NOW BUILDING // 正在构建
+<br />
 
-> 一个人 + 一队智能体，给 AI 底座长出可插拔的能力。全部零构建、零运行依赖、纯本地。
-
-| PROJECT // 插件 | WHAT IT DOES // 能力 | SIGNAL |
-| :--- | :--- | :--- |
-| **[dsh-dingtalk-connector](https://github.com/yiyunet/dsh-dingtalk-connector)** | 把钉钉 AI 表格接进 DeepSeek Harness：10 个工具 + 设置面板 + 定时导出 | ![stars](https://img.shields.io/github/stars/yiyunet/dsh-dingtalk-connector?style=flat-square&labelColor=0D1117&color=00E5FF&logo=github) |
-| **[dsh-kill-ai-slop](https://github.com/yiyunet/dsh-kill-ai-slop)** | AI 垃圾过滤：给收到的文档打可回溯的体检分，义务台账审查工作空转，引文机器复核原文 | ![stars](https://img.shields.io/github/stars/yiyunet/dsh-kill-ai-slop?style=flat-square&labelColor=0D1117&color=00E5FF&logo=github) |
-| **[dsh-learn-skills](https://github.com/yiyunet/dsh-learn-skills)** | 学习运行时：把「收集 → 提炼 → 关联 → 升级 → 沉淀 → 复用」做成有审核的闭环 | ![stars](https://img.shields.io/github/stars/yiyunet/dsh-learn-skills?style=flat-square&labelColor=0D1117&color=00E5FF&logo=github) |
-| **[dsh-mcp-client-manager](https://github.com/yiyunet/dsh-mcp-client-manager)** | 设置面板里管理 MCP 客户端服务器，零构建零运行依赖 | ![stars](https://img.shields.io/github/stars/yiyunet/dsh-mcp-client-manager?style=flat-square&labelColor=0D1117&color=00E5FF&logo=github) |
-| **[dsh-proxy-egress](https://github.com/yiyunet/dsh-proxy-egress)** | 本地出口代理桥：给拒绝凭据的消费方一个无凭据地址，账号在上游那一跳注入，失败即断联 | ![stars](https://img.shields.io/github/stars/yiyunet/dsh-proxy-egress?style=flat-square&labelColor=0D1117&color=00E5FF&logo=github) |
-
----
-
-### 🔥 CORE BREAKTHROUGH MISSIONS // 核心讨论与突围议题
-
-| VECTOR // 突围方向 | PROTOCOL // 核心议题 | TARGET // 预期目标 |
-| :--- | :--- | :--- |
-| **⚡ MANAGEMENT** | AI-First 组织架构重构 / 碳硅协同管理 | 消除管理内耗，重塑工作流底座 |
-| **💻 TECHNOLOGY** | 智能体自动化落地 / 企业 Context 构建 / 影子 AI 治理 | 打造高可用、高合规的端到端 Agent 矩阵 |
-| **💰 BUSINESS** | 收入运营（RevOps）智能破局 / 营销链路重构 | **60-120天** 内完成清晰的 ROI 闭环验证 |
-
----
-
-### ⚖️ SECURITY RULES // 突围守则
-
-* `[RULE_01]` **PRAGMATISM_FIRST** :: 欢迎分享真实的落地案例、踩坑经验、技术架构方案及行业洞察，拒绝纯广告与概念炒作。
-* `[RULE_02]` **NO_SPAM_ALLOWED** :: 严禁发布任何推文互推、拼多多砍价、政治敏感或未经证实的谣言。
-* `[RULE_03]` **STAY_DECENTRALIZED** :: 尊重管理视角与技术视角的差异，共同碰撞出能落地的最佳实践。
-
----
-
-### 📌 REGISTRATION PROTOCOL // 新人报到协议
-
-想加入这个 **「管理转型 × 技术落地」的交叉创新智库**，做资源精准对接？两条通道任选其一：
-
-**`[CHANNEL_01]` WeChat（个人微信 · 长期有效）** —— 扫码或搜 `yiyunet-ai`，备注你的身份与瓶颈；聊得来我再拉你进「管理转型 × 技术落地」的讨论群：
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/yiyunet/yiyunet/main/assets/yiyunet-ai.png" alt="WeChat: yiyunet-ai" width="220" />
-</p>
-
-**`[CHANNEL_02]` Issue** —— 开一张报到单，名片规范如下：
-
-```bash
-$ git config --global user.name "姓名-公司/职位-城市"
-# 示例: git config --global user.name "张三-某科技CEO-深圳"
-```
-
-```yaml
-# 新人报到元数据（复制到 Issue 正文）
-identity: "我是谁（您的背景/擅长领域）"
-provisions: "我能提供（技术能力/管理经验/行业资源/合作机会）"
-bottlenecks: "我的突围痛点（目前在 AI 原生转型中遇到的最大挑战）"
-```
-
-**→ [开一张报到单 / OPEN A REPORT-IN ISSUE](https://github.com/yiyunet/yiyunet/issues/new)**
-
----
-
-### 📊 SYSTEM STATUS // 实时数据监控
+## 03 / TOOLKIT
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yiyunet&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&rank_icon=github" alt="Cyber Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiyunet&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Cyber Languages" width="48%" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,git,githubactions,md&amp;theme=dark&amp;perline=6" alt="JavaScript, TypeScript, Node.js, Git, GitHub Actions, Markdown" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yiyunet&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=FF6B00&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Commit Streak" />
+  <sub>JavaScript / TypeScript · Node.js · Git · GitHub Actions · Markdown</sub>
+</p>
+
+**关注的三个问题**
+
+- **组织：** 人与智能体如何协作，才能减少管理内耗？
+- **技术：** 如何把上下文、工具与知识接成可维护的工作流？
+- **业务：** 如何用实际交付与可验证的结果衡量 AI 的价值？
+
+<br />
+
+## 04 / OPEN-SOURCE SIGNALS
+
+<p align="center">
+  <a href="https://github.com/yiyunet?tab=repositories">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yiyunet&amp;theme=github_dark" alt="yiyunet public GitHub activity statistics" />
+  </a>
+  <a href="https://github.com/yiyunet?tab=repositories">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yiyunet&amp;theme=github_dark" alt="Top languages by repository — not a code-volume or skill-level percentage" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yiyunet&theme=github_dark" alt="Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/00E5FF/yiyunet" alt="Contribution Chart // 贡献热力图" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yiyunet/yiyunet/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph // 3D 贡献图" width="100%" />
+  <sub>公开数据由第三方服务生成，存在缓存延迟；语言卡按仓库统计，不代表代码量占比或熟练程度。</sub>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yiyunet/yiyunet/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yiyunet/yiyunet/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake // 贪吃蛇贡献图" src="https://raw.githubusercontent.com/yiyunet/yiyunet/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yiyunet/yiyunet/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yiyunet/yiyunet/output/github-contribution-grid-snake.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/yiyunet/yiyunet/output/github-contribution-grid-snake.svg" alt="Animated contribution snake for yiyunet" />
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ACHIEVEMENT-PULL__SHARK-FFD700?style=flat-square&labelColor=0D1117&logo=github" alt="Pull Shark" />
-  <img src="https://img.shields.io/badge/PARADIGM-AI--FIRST-00E5FF?style=flat-square&labelColor=0D1117" alt="AI-First" />
-  <img src="https://img.shields.io/badge/GOVERNANCE-SHADOW__AI__MITIGATION-8A2BE2?style=flat-square&labelColor=0D1117" alt="governance" />
+<br />
+
+## 05 / CONNECT
+
+**你带来真实问题，我们一起讨论能落地的方案。**
+
+欢迎交流 AI 原生组织、Agent 工作流、DSH 插件，以及实际使用中的反馈。
+
+<p>
+  <a href="https://github.com/yiyunet/yiyunet/issues/new">
+    <img src="https://img.shields.io/badge/LET%27S_TALK-OPEN_AN_ISSUE-00D9FF?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0D1117" alt="Open an issue to start a conversation" />
+  </a>
+  <img src="https://img.shields.io/badge/WeChat-yiyunet--ai-07C160?style=for-the-badge&amp;logo=wechat&amp;logoColor=white&amp;labelColor=0D1117" alt="WeChat: yiyunet-ai" />
 </p>
 
-<!-- 2026-10-25 实测：下列服务的 Vercel 部署被平台暂停（返回 This deployment is temporarily paused），
-     故暂不上线；服务恢复后把这段注释解开即可（原文教程同款卡片）：
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yiyunet&theme=onedark&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" alt="Cyber Trophies" />
-</p>
--->
+微信：`yiyunet-ai`，请备注你的背景与想解决的问题。
+
+<details>
+<summary>展开微信二维码 / WeChat QR</summary>
+<br />
+<img width="200" src="https://raw.githubusercontent.com/yiyunet/yiyunet/main/assets/yiyunet-ai.png" alt="WeChat QR code for yiyunet-ai" />
+</details>
+
+<br />
 
 ---
 
-<div align="center">
-
-```text
-╔════════════════════════════════════════════════════════════════════╗
-║  $ ./break-through --paradigm=ai-native --timeline=60-120d         ║
-║  [ OK ] legacy mindset unloaded                                    ║
-║  [ OK ] context engine mounted                                     ║
-║  [ >> ] ROI loop running ...                                       ║
-║  [ >> ] awaiting your bottleneck                                   ║
-╚════════════════════════════════════════════════════════════════════╝
-```
-
-<sub>动态卡片：github-readme-stats / streak-stats / profile-summary-cards / ghchart / shields / komarev；
-3D 贡献图与贪吃蛇由本仓库 GitHub Actions 每日生成（`.github/workflows/`）。第三方服务偶发抽风刷新即可。</sub>
-
-</div>
-
-<!-- MATRIX RAIN EXIT -->
+<p align="center">
+  <b>BUILD WITH AGENTS. DELIVER IN THE REAL WORLD.</b><br />
+  <sub>AI-Native Breakthrough / yiyunet</sub>
+</p>
